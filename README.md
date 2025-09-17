@@ -1,6 +1,11 @@
-# Eros Librería e Impresiones
+# 📚 Eros Librería e Impresiones  
 
-Sitio web de **Eros Librería**, tienda chilena de papelería personalizada y artesanal. Proyecto basado en la plantilla *eNno (Bootstrap)*, con personalización de tipografías, paleta dorado #b8860b y secciones de Misión, Visión, Productos, Opiniones y Ubicación.
+Sitio web oficial de **Eros Librería**, una tienda chilena dedicada a la **papelería personalizada y artesanal**.  
+Nuestro objetivo es ofrecer productos únicos, hechos con dedicación y estilo, que inspiran, organizan y acompañan el día a día de cada persona.  
+
+Este proyecto fue desarrollado sobre la plantilla [**eNno (Bootstrap)**](https://themewagon.com/themes/enno/), con una completa **personalización de tipografías, colores** (paleta dorado `#b8860b`) y secciones adaptadas a la identidad de la marca.  
+
+---
 
 ## ✨ Características
 - Diseño responsive con **Bootstrap 5**.
@@ -12,4 +17,18 @@ Sitio web de **Eros Librería**, tienda chilena de papelería personalizada y ar
 - HTML5, CSS, JS
 - Bootstrap 5
 - Icons: Bootstrap Icons
+
+---
+## 🌍 Demo en línea
+El sitio está desplegado en **Netlify** y disponible en la siguiente URL:  
+
+[Ver sitio en Netlify](https://serene-faloodeh-4feb8f.netlify.app/)  
+
+---
+
+## 📖 Créditos
+- Plantilla base: [eNno (BootstrapMade)](https://themewagon.com/themes/enno/)  
+- Personalización y desarrollo: *Eros Librería e Impresiones*  
+
+---
 
